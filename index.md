@@ -20,6 +20,7 @@ I'm working through **I. E. Irodov's _Problems in General Physics_**, documentin
 #### 1.1 Kinematics
 
 - [**Problem 1.1 — Motorboat and Raft**](/irodov/1-1.html)
+- [**Problem 1.2 — Mean Velocity**](/irodov/1-2.html)
 
 ---
 
