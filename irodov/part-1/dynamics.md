@@ -21,4 +21,8 @@ I solve the problems in my own order, so this list will gradually fill in over t
 
 ---
 
+### Problem 1.60 — Three Connected Bodies
+
+[View my solution →](/irodov/part-1/dynamics/1-60.html)
+
 *More solutions will be added as I work through this section.*
