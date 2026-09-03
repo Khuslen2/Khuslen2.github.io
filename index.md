@@ -19,7 +19,7 @@ I'm working through **I. E. Irodov's _Problems in General Physics_**, documentin
 
 #### 1.1 Kinematics
 
-- **Problem 1.1 — Motorboat and Raft**
+- [**Problem 1.1 — Motorboat and Raft**](/irodov/1-1.html)
 
 ---
 
