@@ -1,3 +1,8 @@
+---
+layout: default
+title: Khuslen's Physics Notes
+---
+
 # Khuslen's Physics Notes
 
 > Learning physics one problem at a time.
@@ -8,13 +13,13 @@ I'm working through **I. E. Irodov's _Problems in General Physics_**, documentin
 
 ---
 
-## 📚 Irodov — Problems in General Physics
+## Irodov — Problems in General Physics
 
 ### Part One — Physical Fundamentals of Mechanics
 
 #### 1.1 Kinematics
 
-- **Problem 1.1 — Motorboat and Raft** *(coming next)*
+- **Problem 1.1 — Motorboat and Raft**
 
 ---
 
@@ -22,12 +27,4 @@ I'm working through **I. E. Irodov's _Problems in General Physics_**, documentin
 
 The goal of this project is to improve my understanding of physics through problem solving.
 
-For each problem, I will try to record:
-
-- my original approach;
-- the key physical idea;
-- a complete derivation;
-- the final result;
-- and what I learned from the problem.
-
-This is a work in progress.
+For each problem, I will record my original approach, the key physical idea, the complete derivation, the final result, and what I learned.
