@@ -21,6 +21,7 @@ I'm working through **I. E. Irodov's _Problems in General Physics_**, documentin
 
 - [**Problem 1.1 — Motorboat and Raft**](/irodov/1-1.html)
 - [**Problem 1.2 — Mean Velocity**](/irodov/1-2.html)
+- [**Problem 1.59 — Aerostat and Ballast**](/irodov/1-59.html)
 
 ---
 
