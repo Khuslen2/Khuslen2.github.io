@@ -9,30 +9,23 @@ title: Khuslen's Physics Notes
 
 Welcome to my personal physics notebook.
 
-I'm working through **I. E. Irodov's _Problems in General Physics_**, documenting not only the answers, but also my reasoning, mistakes, corrections, and the physical ideas I learn from each problem.
-
-I don't necessarily solve the problems in numerical order. I move between different topics and gradually complete each section.
+I'm working through **I. E. Irodov's _Problems in General Physics_**, documenting my reasoning, mistakes, corrections, and the physical ideas behind each problem.
 
 ---
 
 ## 📚 Irodov — Problems in General Physics
 
-### Part One — Physical Fundamentals of Mechanics
-
-- [**1.1 Kinematics**](/irodov/kinematics.html)
-- **1.2 The Fundamental Equation of Dynamics**
-- **1.3 Laws of Conservation of Energy, Momentum, and Angular Momentum**
-- **1.4 Universal Gravitation**
-- **1.5 Dynamics of a Solid Body**
-- **1.6 Elastic Deformations of a Solid Body**
-- **1.7 Hydrodynamics**
+- [**Part One — Physical Fundamentals of Mechanics**](/irodov/part-1.html)
+- **Part Two — Thermodynamics and Molecular Physics**
+- **Part Three — Electrodynamics**
+- **Part Four — Oscillations and Waves**
+- **Part Five — Optics**
+- **Part Six — Atomic and Nuclear Physics**
 
 ---
 
 ## About This Project
 
-The goal of this project is to improve my understanding of physics through problem solving.
+I solve problems from different topics rather than strictly following the numerical order.
 
-For each problem, I keep my original approach, including my mistakes, and then work toward a clearer and more rigorous solution.
-
-Over time, this site will become a record of both the problems I have solved and how my way of thinking about physics has developed.
+The website itself is organized according to the structure of the book, so each solution can still be found easily.
