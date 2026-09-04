@@ -22,5 +22,10 @@ I solve the problems in my own order, so this list will gradually fill in over t
 [View my solution →](/irodov/part-1/solid-body/1-234.html)
 
 ---
+### Problem 1.235 — Moment and Arm of a Force
+
+[View my solution →](/irodov/part-1/solid-body/1-235.html)
+
+---
 
 *More solutions will be added as I work through this section.*
