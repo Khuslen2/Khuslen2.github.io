@@ -19,4 +19,8 @@ Gravitational force, circular orbits, gravitational fields, and related problems
 
 ---
 
+### Problem 1.201 — Jupiter's Orbit
+
+[View my solution →](/irodov/part-1/gravitation/1-201.html)
+
 *More solutions will be added as I work through this section.*
