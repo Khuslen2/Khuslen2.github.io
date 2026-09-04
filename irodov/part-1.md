@@ -41,9 +41,9 @@ Gravitational force, circular orbits, gravitational fields, and related problems
 
 ---
 
-### 1.5 Dynamics of a Solid Body
+### [1.5 Dynamics of a Solid Body →](/irodov/part-1/solid-body.html)
 
-*Solutions coming later.*
+Translational and rotational motion of rigid bodies, torque, angular acceleration, moment of inertia, and related solid-body dynamics problems.
 
 ---
 
