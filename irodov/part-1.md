@@ -33,9 +33,11 @@ Work and energy, momentum, angular momentum, and related conservation-law proble
 
 ---
 
-### 1.4 Universal Gravitation
+---
 
-*Solutions coming later.*
+### [1.4 Universal Gravitation →](/irodov/part-1/gravitation.html)
+
+Gravitational force, circular orbits, gravitational fields, and related problems.
 
 ---
 
