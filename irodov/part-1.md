@@ -27,9 +27,9 @@ Newton's laws, forces, acceleration, and related dynamics problems.
 
 ---
 
-### 1.3 Laws of Conservation of Energy, Momentum, and Angular Momentum
+### [1.3 Laws of Conservation of Energy, Momentum, and Angular Momentum →](/irodov/part-1/conservation.html)
 
-*Solutions coming later.*
+Work and energy, momentum, angular momentum, and related conservation-law problems.
 
 ---
 
