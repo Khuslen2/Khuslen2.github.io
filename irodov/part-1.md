@@ -56,3 +56,9 @@ Translational and rotational motion of rigid bodies, torque, angular acceleratio
 ### 1.7 Hydrodynamics
 
 *Solutions coming later.*
+
+---
+
+## 1.8 Relativistic Mechanics
+
+*Solutions coming later.*
