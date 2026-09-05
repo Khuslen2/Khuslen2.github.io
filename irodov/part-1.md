@@ -47,7 +47,7 @@ Translational and rotational motion of rigid bodies, torque, angular acceleratio
 
 ---
 
-## [1.6 Elastic Deformations of a Solid Body →](/irodov/part-1/elastic-deformations.html)
+### [1.6 Elastic Deformations of a Solid Body →](/irodov/part-1/elastic-deformations.html)
 
 Stress, strain, Young's modulus, thermal expansion, and related elastic-deformation problems.
 
