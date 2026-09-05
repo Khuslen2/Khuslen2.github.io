@@ -59,6 +59,6 @@ Stress, strain, Young's modulus, thermal expansion, and related elastic-deformat
 
 ---
 
-## 1.8 Relativistic Mechanics
+### 1.8 Relativistic Mechanics
 
 *Solutions coming later.*
