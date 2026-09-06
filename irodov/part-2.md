@@ -15,6 +15,6 @@ I solve problems from different sections in my own order, so the sections will g
 
 ## Sections
 
-## [2.1 Equation of the Gas State. Processes →](part-2/gas-state.md)
+### [2.1 Equation of the Gas State. Processes →](part-2/gas-state.md)
 
 Ideal gases, equations of state, pressure, volume, temperature, and thermodynamic processes.
