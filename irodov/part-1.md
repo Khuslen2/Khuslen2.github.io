@@ -59,6 +59,6 @@ Steady fluid flow, pressure, Bernoulli's equation, streamlines, and related hydr
 
 ---
 
-## [1.8 Relativistic Mechanics →](part-1/relativistic-mechanics.md)
+### [1.8 Relativistic Mechanics →](part-1/relativistic-mechanics.md)
 
 Length contraction, time dilation, Lorentz transformations, and related relativistic mechanics problems.
