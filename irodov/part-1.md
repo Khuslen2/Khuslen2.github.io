@@ -53,9 +53,9 @@ Stress, strain, Young's modulus, thermal expansion, and related elastic-deformat
 
 ---
 
-### 1.7 Hydrodynamics
+### [1.7 Hydrodynamics →](/irodov/part-1/hydrodynamics.html)
 
-*Solutions coming later.*
+Steady fluid flow, pressure, Bernoulli's equation, streamlines, and related hydrodynamics problems.
 
 ---
 
