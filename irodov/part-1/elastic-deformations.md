@@ -22,5 +22,10 @@ I solve the problems in my own order, so this list will gradually fill in over t
 [View my solution →](/irodov/part-1/elastic-deformations/1-290.html)
 
 ---
+### Problem 1.291 — Internal Pressure in a Glass Tube and Spherical Flask
+
+[View my solution →](/irodov/part-1/elastic-deformations/1-291.html)
+
+---
 
 *More solutions will be added as I work through this section.*
