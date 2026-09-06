@@ -16,7 +16,7 @@ I'm working through **I. E. Irodov's _Problems in General Physics_**, documentin
 ## 📚 Irodov — Problems in General Physics
 
 - [**Part One — Physical Fundamentals of Mechanics**](/irodov/part-1.html)
-- **Part Two — Thermodynamics and Molecular Physics**
+- [**Part Two — Thermodynamics and Molecular Physics**](/irodov/part-2.html)
 - **Part Three — Electrodynamics**
 - **Part Four — Oscillations and Waves**
 - **Part Five — Optics**
