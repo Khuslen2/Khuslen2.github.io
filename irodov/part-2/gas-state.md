@@ -16,3 +16,5 @@ These pages document not only the final solutions, but also the reasoning, mista
 ## Problems
 
 - [Problem 2.1 — Gas Released from a Vessel](gas-state/2-1.md)
+
+- [Problem 2.2 — Two Vessels Connected by a Valve](gas-state/2-2.md)
