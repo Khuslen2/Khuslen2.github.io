@@ -21,6 +21,6 @@ Ideal gases, equations of state, pressure, volume, temperature, and thermodynami
 
 ---
 
-## [2.2 The First Law of Thermodynamics. Heat Capacity →](part-2/first-law.md)
+### [2.2 The First Law of Thermodynamics. Heat Capacity →](part-2/first-law.md)
 
 Internal energy, heat capacity, work, heat transfer, and applications of the first law of thermodynamics.
