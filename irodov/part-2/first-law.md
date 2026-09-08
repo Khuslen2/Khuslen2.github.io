@@ -16,3 +16,4 @@ These pages document not only the final answers, but also the physical ideas, re
 ## Problems
 
 - [Problem 2.26 — Internal Energy of Air in a Room](first-law/2-26.md)
+- [Problem 2.27 — Sudden Stoppage of a Gas-Filled Vessel](first-law/2-27.md)
