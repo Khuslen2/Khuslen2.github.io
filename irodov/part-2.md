@@ -24,3 +24,9 @@ Ideal gases, equations of state, pressure, volume, temperature, and thermodynami
 ### [2.2 The First Law of Thermodynamics. Heat Capacity →](part-2/first-law.md)
 
 Internal energy, heat capacity, work, heat transfer, and applications of the first law of thermodynamics.
+
+---
+
+### [2.3 Kinetic Theory of Gases →](part-2/kinetic-theory.md)
+
+Molecular motion, number density, molecular speeds, and the microscopic description of gases.
