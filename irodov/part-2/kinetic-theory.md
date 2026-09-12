@@ -16,3 +16,4 @@ These problems focus on the microscopic description of gases, including molecula
 ## Problems
 
 - [Problem 2.62 — Molecules Remaining in a High Vacuum](kinetic-theory/2-62.md)
+- [Problem 2.63 — Pressure of Partially Dissociated Nitrogen](kinetic-theory/2-63.md)
